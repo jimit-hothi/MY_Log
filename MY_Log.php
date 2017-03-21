@@ -82,3 +82,7 @@ class MY_Log extends CI_Log {
         return is_int($result);
     }
 }
+
+/**
+Locaion : application/core/MY_Log.php
+*/
